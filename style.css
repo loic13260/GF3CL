@@ -485,7 +485,7 @@ body {
 
 
 
-.footer {
+footer {
   position: bottom;
   right: 0;
   bottom: 0;
@@ -495,6 +495,35 @@ body {
   font-size: 11px;
   width: 100%;
 }
+
+.navigation {
+  /* Grand écran */
+
+  display: flex;
+  flex-flow: row wrap;
+
+  justify-content: flex-end;
+  background: #373737;
+}
+
+/* Écrans moyens */
+@media all and (max-width: 800px) {
+  .navigation {
+
+  justify-content: space-around;
+  background:  #373737;
+  }
+}
+
+/* Petit écran */
+@media all and (max-width: 500px) {
+  .navigation {
+  
+  flex-direction: column;
+  background: #373737;
+  }
+}
+
 
   
 
@@ -880,9 +909,7 @@ p { margin-bottom: 1.375rem; }
     background-size: 100% 100%;
 }
 
-section #taille {
-  width:"100%";
-}
+
 
 
 
