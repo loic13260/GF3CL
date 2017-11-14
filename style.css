@@ -325,22 +325,6 @@ svg#scene {
   display:none;
 }
 
-// Variable
-$black:            #000;
-
-// Screen Sizes. Similar to Bootstrap 3 SASS
-$screen-xs-max:    479px;
-$screen-sm-max:    767px;
-$screen-md-max:    991px;
-
-
-
-
-
-
-
-
-
 
 
 .carousel-container {
@@ -481,11 +465,16 @@ body {
  * Footer Styles
  */
 
-
-
-
-
-
+footer {
+  position: bottom;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #2E2E2E;
+  font-size: 11px;
+  width: 100%;
+}
 
 /* Grand écran */
 .navigation {
