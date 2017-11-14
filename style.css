@@ -483,14 +483,16 @@ body {
 
 
 
-  .footer{
-    bottom: 0; left: 0; right: 0;
-    position:absolute;
-    background-color: #000;
-    border-top: 2px solid #3faad9;
-    display: table-row;
-}
 
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #2E2E2E;
+  font-size: 11px;
 
   
 
