@@ -724,7 +724,7 @@ p { margin-bottom: 1.375rem; }
 }
 
 #myList {
-  position: absolute;
+  position: relative;
   top: -35px;
   width: 60%; 
   left: 50%;
@@ -873,6 +873,9 @@ p { margin-bottom: 1.375rem; }
     background-size: 100% 100%;
 }
 
+#lulsection {
+  width: 100%;
+}
 
 
 
