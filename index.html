@@ -162,14 +162,25 @@
 
     </MARQUEE>
 
-      <div class="cookies"> 
-<button class="cookiesbutton">
-  J'ai compris ! 
-</button>
-<h1></h1>
-<p class="cookiestext">
-En poursuivant votre navigation sur ce site, vous acceptez l'utilisation de cookies afin d'en assurer le bon fonctionnement et de réaliser des statistiques anonymes de visites. <a href="https://www.microsoft.com/fr-fr/security/resources/cookie-whatis.aspx">En savoir plus</a></p>
-</div>
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#f1d600"
+    }
+  },
+  "content": {
+    "message": "En poursuivant votre navigation sur ce site, vous acceptez l'utilisation de cookies afin de réaliser des statistiques anonymes de visites.",
+    "dismiss": "J'ai compris!",
+    "link": "En savoir plus"
+  }
+})});
+</script>
 
 
 
