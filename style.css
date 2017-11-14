@@ -503,7 +503,7 @@ footer {
   flex-flow: row wrap;
 
   justify-content: flex-end;
-  background: #373737;
+
 }
 
 /* Écrans moyens */
@@ -511,7 +511,7 @@ footer {
   .navigation {
 
   justify-content: space-around;
-  background:  #373737;
+
   }
 }
 
@@ -520,7 +520,7 @@ footer {
   .navigation {
   
   flex-direction: column;
-  background: #373737;
+
   }
 }
 
