@@ -485,25 +485,15 @@ body {
 
 
 
-footer {
-  position: bottom;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  padding: 1rem;
-  background-color: #2E2E2E;
-  font-size: 11px;
-  width: 100%;
-}
 
+
+/* Grand écran */
 .navigation {
-  /* Grand écran */
-
   display: flex;
   flex-flow: row wrap;
 
   justify-content: flex-end;
-
+  background: #2E2E2E;
 }
 
 /* Écrans moyens */
@@ -511,7 +501,7 @@ footer {
   .navigation {
 
   justify-content: space-around;
-
+  background:  #2E2E2E;
   }
 }
 
@@ -520,7 +510,7 @@ footer {
   .navigation {
   
   flex-direction: column;
-
+  background: #2E2E2E;
   }
 }
 
