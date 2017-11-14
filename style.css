@@ -476,35 +476,7 @@ footer {
   width: 100%;
 }
 
-/* Grand écran */
-.navigation {
-  display: flex;
-  flex-flow: row wrap;
 
-  justify-content: flex-end;
-  background: #2E2E2E;
-}
-
-/* Écrans moyens */
-@media all and (max-width: 800px) {
-  .navigation {
-
-  justify-content: space-around;
-  background:  #2E2E2E;
-  }
-}
-
-/* Petit écran */
-@media all and (max-width: 500px) {
-  .navigation {
-  
-  flex-direction: column;
-  background: #2E2E2E;
-  }
-}
-
-
-  
 
 
 
