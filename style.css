@@ -14,13 +14,30 @@ body #acceuil {
 
 
 
-body #equipe {
+.fondecran { 
 color:black;
+background-image:url(danger.png);
+overflow-x: hidden;
 }
-@media only screen and (max-width:1000px) {
- body {
- background-color:white;
- color:black;
+
+
+body #equipe {
+    text-align: center;
+    color: #fff;
+    background-attachment: scroll;
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+@media only screen and (max-width:800px) {
+ .fondecran {
+background-image:url(none);
+
+ color:black
  }
 }
 
