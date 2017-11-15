@@ -526,12 +526,10 @@ width:"800px";
  */
 div#footer{
    position: bottom;
-   right: 0;
+  right: 0;
   bottom: 0;
   left: 0;
   padding: 1rem;
-  width:100%;
-  margin:50px auto;
   background-color: #2E2E2E;
   font-size: 11px;
 }
