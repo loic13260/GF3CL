@@ -1,3 +1,9 @@
+.acceuil{
+color:black;
+background-image:url(chantier2.png);
+overflow-x: hidden;
+}
+
 body #acceuil  {
     text-align: center;
     color: #fff;
@@ -13,20 +19,15 @@ body #acceuil  {
 }
 
 @media only screen and (max-width:800px) {
- body #acceuil {
+ .acceuil {
 background-image:url(chantier2.png);
-background-size: 20px;
+background-size: 100px 200px;
 
  color:black
  }
 }
 
-.acceuil{
-   width: 1600px;
-    height: 230px;
-    max-width: 100%;
-    height: auto;
-}
+
 
 
 
