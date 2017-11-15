@@ -520,12 +520,11 @@ body {
 
 
 
-
-
 div#footer_content{
   width:1000px;
   clear:left;
   margin:50px auto 50px auto;
+  background-color: #2E2E2E;
 }
 
   
