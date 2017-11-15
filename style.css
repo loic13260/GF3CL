@@ -12,7 +12,8 @@ body #acceuil {
 }
 
 body #equipe {
-  @media only screen and (max-width:800px) {
+
+@media only screen and (max-width:1000px) {
  body {
  background-color:white;
  color:black;
