@@ -42,6 +42,45 @@ background-image:url(none);
 }
 
 
+.fondecran2 { 
+color:black;
+background-image:url(danger3.png);
+overflow-x: hidden;
+}
+
+body #Qui-sommes-nous{
+    text-align: center;
+    color: #fff;
+    background-attachment: scroll;
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+@media only screen and (max-width:800px) {
+ .fondecran2 {
+background-image:url(none);
+
+ color:black
+ }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 body {
 
 
