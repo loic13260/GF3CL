@@ -45,8 +45,13 @@ background-image:url(none);
 
 
 /* Grand écran */
-section #navigation {
+section #navigation {{
 width: auto;
+}
+@media screen and (min-width: 400px) and (max-width: 700px) {
+/* Les propriétés CSS ici */
+
+}
 }
 
 
@@ -515,15 +520,12 @@ body {
 
 
 
-.footer {
-  position: bottom;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  padding: 1rem;
-  background-color: #2E2E2E;
-  font-size: 11px;
-  width: auto;
+
+
+div#footer_content{
+  width:1000px;
+  clear:left;
+  margin:50px auto 50px auto;
 }
 
   
