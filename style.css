@@ -521,6 +521,11 @@ body {
 
 
 div#footer{
+   position: bottom;
+   right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
   width:1000px;
   clear:left;
   margin:50px auto 50px auto;
