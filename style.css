@@ -514,11 +514,8 @@ body {
   min-height: 100%;
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
-@media only screen and (max-width:800px) {
- #footer {
-width:"800px";
- }
-}
+
+
 
 
 /**
