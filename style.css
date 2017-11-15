@@ -1,4 +1,4 @@
-body #acceuil { {
+body #acceuil  {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
@@ -11,13 +11,15 @@ body #acceuil { {
     -o-background-size: cover;
     overflow-x: hidden;
 }
-.background{
+
+
+.acceuil{
    width: 1600px;
     height: 230px;
     max-width: 100%;
     height: auto;
 }
-}
+
 
 
 
@@ -1001,7 +1003,6 @@ height:100%;
 width:100%;
 position:absolute;
 }
-
 
 
 
