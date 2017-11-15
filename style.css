@@ -44,6 +44,36 @@ background-image:url(none);
 
 
 
+/* Grand écran */
+section #navigation {
+  display: flex;
+  flex-flow: row wrap;
+
+  justify-content: flex-end;
+} 
+
+/* Écrans moyens */
+@media all and (max-width: 800px) {
+  .navigation {
+
+  justify-content: space-around;
+
+  } 
+}
+
+/* Petit écran */
+@media all and (max-width: 500px) {
+  .navigation {
+  
+  flex-direction: column;
+
+  }
+}
+
+
+
+
+
 
 
 
