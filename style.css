@@ -1,4 +1,4 @@
-body #acceuil {
+body #acceuil { {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
@@ -16,6 +16,7 @@ body #acceuil {
     height: 230px;
     max-width: 100%;
     height: auto;
+}
 }
 
 
