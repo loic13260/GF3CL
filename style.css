@@ -1006,5 +1006,14 @@ position:absolute;
     height: auto;
 }
 
+.background{
+   width: 1600px;
+    height: 230px;
+    max-width: 100%;
+    height: auto;
+}
+
+}
+
 
 
