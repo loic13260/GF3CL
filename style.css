@@ -11,6 +11,15 @@ body #acceuil {
     -o-background-size: cover;
 }
 
+body #equipe {
+  @media only screen and (max-width:800px) {
+ body {
+ background-color:white;
+ color:black;
+ }
+}
+}
+
 
 
 
@@ -493,7 +502,7 @@ body {
   padding: 1rem;
   background-color: #2E2E2E;
   font-size: 11px;
-  width: 100%;
+  width: auto;
 }
 
   
