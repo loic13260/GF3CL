@@ -1021,7 +1021,7 @@ div #placo {
   width: 100%;
   background-repeat: none;
   background: #6cab26;
-background-image: url(per8.png);/* fallback */
+background-image: url(grue.png);/* fallback */
 zoom: 115%;
 background-position: 0px, 10px, 0px, 0px;
 }
@@ -1033,7 +1033,7 @@ div #grosoeuvre {
   width: 100%;
   background-repeat: none;
   background: #6cab26;
-background-image: url(grosoeuvre2.png);/* fallback */
+background-image: url(grue.png);/* fallback */
 zoom: 115%;
 background-position: 0px, 10px, 0px, 0px;
 }
