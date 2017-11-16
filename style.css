@@ -1023,7 +1023,7 @@ position:absolute;
   background: #6cab26;
 background-image: url(per7.png);/* fallback */
 zoom: 115%;
-background-position: 0px, 10px, 0px, 0px;
+background-position: 0px, 0px, 0px, 0px;
 }
 
 .grosoeuvre {
@@ -1033,7 +1033,7 @@ background-position: 0px, 10px, 0px, 0px;
   background: #6cab26;
 background-image: url(grosoeuvre.png);/* fallback */
 zoom: 115%;
-background-position: 0px, 10px, 0px, 0px;
+background-position: 0px, 0px, 0px, 0px;
 }
 
 .facade {
@@ -1043,7 +1043,7 @@ background-position: 0px, 10px, 0px, 0px;
   background: #6cab26;
 background-image: url(facade.png);/* fallback */
 zoom: 115%;
-background-position: 0px, 10px, 0px, 0px;
+background-position: 0px, 0px, 0px, 0px;
 }
 
 
