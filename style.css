@@ -68,14 +68,14 @@ height: 100px;
 
 .grosoeuvre {
  color:black;
-background-image: url(grosoeuvre.png);/* fallback */
+background-image: url(grosoeuvre.png);
 overflow-x: hidden;
 height: 100px;
 }
 
 .facade {
 color:black;
-background-image: url(facade.png);/* fallback */
+background-image: url(facade.png);
 overflow-x: hidden;
 height: 100px;
 }
