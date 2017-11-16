@@ -1016,7 +1016,7 @@ position:absolute;
 
 
 
-div #placo {
+#placo {
   height: 680px; 
   width: 100%;
   background-repeat: none;
@@ -1026,7 +1026,7 @@ zoom: 115%;
 background-position: 0px, 0px, 0px, 0px;
 }
 
-div #grosoeuvre {
+#grosoeuvre {
   height: 680px; 
   width: 100%;
   background-repeat: none;
@@ -1036,7 +1036,7 @@ zoom: 115%;
 background-position: 0px, 0px, 0px, 0px;
 }
 
-div #facade {
+#facade {
   height: 680px; 
   width: 100%;
   background-repeat: none;
