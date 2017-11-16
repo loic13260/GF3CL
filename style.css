@@ -78,7 +78,7 @@ background-image:url(none);
  }
 }
 @media only screen and (max-width:800px) {
- #placo {
+ .placo {
 background-image:url(none);
 
  color:black
@@ -1025,7 +1025,7 @@ position:absolute;
 
 
 
-div #placo {
+div .placo {
   height: 680px; 
   width: 100%;
   background-repeat: none;
@@ -1035,7 +1035,7 @@ zoom: 115%;
 background-position: 0px, 10px, 0px, 0px;
 }
 
-div #grosoeuvre {
+div .grosoeuvre {
   height: 680px; 
   width: 100%;
   background-repeat: none;
@@ -1045,7 +1045,7 @@ zoom: 115%;
 background-position: 0px, 10px, 0px, 0px;
 }
 
-div #facade {
+div .facade {
   height: 680px; 
   width: 100%;
   background-repeat: none;
