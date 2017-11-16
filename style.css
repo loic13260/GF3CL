@@ -1016,34 +1016,35 @@ position:absolute;
 
 
 
-#placo {
-  height: 700px; 
+
+div #placo {
+  height: 680px; 
   width: 100%;
   background-repeat: none;
   background: #6cab26;
 background-image: url(per7.png);/* fallback */
 zoom: 115%;
-margin-bottom: 0px;
+background-position: 0px, 10px, 0px, 0px;
 }
 
-#grosoeuvre {
-  height: 700px; 
+div #grosoeuvre {
+  height: 680px; 
   width: 100%;
   background-repeat: none;
   background: #6cab26;
 background-image: url(grosoeuvre.png);/* fallback */
 zoom: 115%;
-margin-bottom: 0px;
+background-position: 0px, 10px, 0px, 0px;
 }
 
-#facade {
-  height: 700px; 
+div #facade {
+  height: 680px; 
   width: 100%;
   background-repeat: none;
   background: #6cab26;
 background-image: url(facade.png);/* fallback */
 zoom: 115%;
-margin-bottom: 0px;
+background-position: 0px, 10px, 0px, 0px;
 }
 
 
