@@ -60,13 +60,9 @@ overflow-x: hidden;
 
 
 .placo {
-  height: 680px; 
-  width: 100%;
-  background-repeat: none;
-  background: #6cab26;
-background-image: url(per7.png);/* fallback */
-zoom: 115%;
-background-position: 0px, 10px, 0px, 0px;
+color:black;
+background-image:url(per7.png);
+overflow-x: hidden;
 }
 
 body #Qui-sommes-nous {
@@ -82,10 +78,8 @@ body #Qui-sommes-nous {
   }
 
 
-
-
-    @media only screen and (max-width:800px) {
- .placo {
+@media only screen and (max-width:800px) {
+ .fondecran2 {
 background-image:url(none);
 
  color:black
@@ -93,10 +87,8 @@ background-image:url(none);
 }
 
 
-}
-
 @media only screen and (max-width:800px) {
- .fondecran2 {
+ .placo {
 background-image:url(none);
 
  color:black
