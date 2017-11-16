@@ -1026,12 +1026,7 @@ zoom: 115%;
 background-position: 0px, 10px, 0px, 0px;
 }
 
- 
-div #placo :hover{ 
-  color: rgb(0,0,128);
-  font-weight: bold;
-  font-size: 22.5px;
-}
+
 
 div #grosoeuvre {
   height: 680px; 
