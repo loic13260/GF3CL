@@ -570,7 +570,7 @@ body {
 /**
  * Footer Styles
  */
-footer #footer{
+div #footer{
    position: bottom;
   right: 0;
   bottom: 0;
