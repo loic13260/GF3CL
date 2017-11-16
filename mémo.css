@@ -54,11 +54,36 @@ background-image:url(none);
 
 .fondecran2 { 
 color:black;
-background-image:url(danger3.png);
+background-image:url(back2.png);
 overflow-x: hidden;
 }
 
-body #Qui-sommes-nous{
+
+.placo {
+color:black;
+background-image:url(per7.png);
+overflow-x: hidden;
+zoom:130%;
+height: 300px;
+}
+
+.grosoeuvre {
+ color:black;
+background-image: url(grosoeuvre.png);
+overflow-x: hidden;
+zoom:130%;
+height: 300px;
+}
+
+.facade {
+color:black;
+background-image: url(facade.png);
+overflow-x: hidden;
+zoom:130%;
+height: 300px;
+}
+
+body #Qui-sommes-nous {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
@@ -68,7 +93,8 @@ body #Qui-sommes-nous{
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-}
+  }
+
 
 @media only screen and (max-width:800px) {
  .fondecran2 {
@@ -79,36 +105,29 @@ background-image:url(none);
 }
 
 
+@media only screen and (max-width:800px) {
+ .placo {
+background-image:url(none);
 
-
-
-
-
-
-
-
-
-
-
-
-body {
-
-
-
-
-
-/* Grand écran */
-section #navigation {{
-width: auto;
-}
-@media screen and (min-width: 400px) and (max-width: 700px) {
-/* Les propriétés CSS ici */
-
-}
+ color:black
+ }
 }
 
+@media only screen and (max-width:800px) {
+ .grosoeuvre {
+background-image:url(none);
 
+ color:black
+ }
+}
 
+@media only screen and (max-width:800px) {
+ .facade {
+background-image:url(none);
+
+ color:black
+ }
+}
 
 
 
@@ -570,7 +589,7 @@ body {
 /**
  * Footer Styles
  */
-div#footer{
+div #footer{
    position: bottom;
   right: 0;
   bottom: 0;
@@ -1013,39 +1032,3 @@ position:absolute;
     max-width: 100%;
     height: auto;
 }
-
-
-
-div #placo {
-  height: 680px; 
-  width: 100%;
-  background-repeat: none;
-  background: #6cab26;
-background-image: url(per7.png);/* fallback */
-zoom: 115%;
-background-position: 0px, 10px, 0px, 0px;
-}
-
-div #grosoeuvre {
-  height: 680px; 
-  width: 100%;
-  background-repeat: none;
-  background: #6cab26;
-background-image: url(grosoeuvre.png);/* fallback */
-zoom: 115%;
-background-position: 0px, 10px, 0px, 0px;
-}
-
-div #facade {
-  height: 680px; 
-  width: 100%;
-  background-repeat: none;
-  background: #6cab26;
-background-image: url(facade.png);/* fallback */
-zoom: 115%;
-background-position: 0px, 10px, 0px, 0px;
-}
-
-
-
-
