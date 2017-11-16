@@ -70,7 +70,7 @@ body #Qui-sommes-nous {{
     -o-background-size: cover;
   }
     @media only screen and (max-width:800px) {
- #placo {
+ .placo {
 background-image:url(none);
 
  color:black
