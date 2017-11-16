@@ -71,12 +71,14 @@ body #Qui-sommes-nous{
 }
 
 @media only screen and (max-width:800px) {
- .fondecran2 {
+ .fondecran2 #placo #grosoeuvre #facade{
 background-image:url(none);
 
  color:black
  }
 }
+
+
 
 
 
