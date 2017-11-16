@@ -63,21 +63,22 @@ overflow-x: hidden;
 color:black;
 background-image:url(per7.png);
 overflow-x: hidden;
-height: 100px;
+margin-left: 0px;
+margin-right:0px;
 }
 
 .grosoeuvre {
  color:black;
 background-image: url(grosoeuvre.png);
 overflow-x: hidden;
-height: 100px;
+zoom:100%;
 }
 
 .facade {
 color:black;
 background-image: url(facade.png);
 overflow-x: hidden;
-height: 100px;
+width: 100%;
 }
 
 body #Qui-sommes-nous {
