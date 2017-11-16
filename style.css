@@ -58,7 +58,7 @@ background-image:url(back2.png);
 overflow-x: hidden;
 }
 
-body #Qui-sommes-nous {{
+body #Qui-sommes-nous {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
@@ -76,7 +76,7 @@ background-image:url(none);
  color:black
  }
 }
-}
+
 
 
 
