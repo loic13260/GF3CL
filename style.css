@@ -63,8 +63,7 @@ overflow-x: hidden;
 color:black;
 background-image:url(per7.png);
 overflow-x: hidden;
-margin-left: 0px;
-margin-right:0px;
+zoom:130%;
 height: 300px;
 }
 
@@ -72,7 +71,7 @@ height: 300px;
  color:black;
 background-image: url(grosoeuvre.png);
 overflow-x: hidden;
-zoom:115%;
+zoom:130%;
 height: 300px;
 }
 
@@ -80,7 +79,7 @@ height: 300px;
 color:black;
 background-image: url(facade.png);
 overflow-x: hidden;
-width: 100%;
+zoom:130%;
 height: 300px;
 }
 
