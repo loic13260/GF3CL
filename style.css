@@ -1021,7 +1021,7 @@ div #placo {
   width: 100%;
   background-repeat: none;
   background: #6cab26;
-background-image: url(per7.png);/* fallback */
+background-image: url(per8.png);/* fallback */
 zoom: 115%;
 background-position: 0px, 10px, 0px, 0px;
 }
@@ -1031,7 +1031,7 @@ div #grosoeuvre {
   width: 100%;
   background-repeat: none;
   background: #6cab26;
-background-image: url(grosoeuvre.png);/* fallback */
+background-image: url(grosoeuvre2.png);/* fallback */
 zoom: 115%;
 background-position: 0px, 10px, 0px, 0px;
 }
@@ -1041,7 +1041,7 @@ div #facade {
   width: 100%;
   background-repeat: none;
   background: #6cab26;
-background-image: url(facade.png);/* fallback */
+background-image: url(facade2.png);/* fallback */
 zoom: 115%;
 background-position: 0px, 10px, 0px, 0px;
 }
