@@ -145,26 +145,6 @@ background-image:url(none);
 
 
 
-body {
-
-
-/* Grand écran */
-section #navigation {{
-width: auto;
-}
-@media screen and (min-width: 400px) and (max-width: 700px) {
-/* Les propriétés CSS ici */
-
-}
-}
-
-
-
-
-
-
-
-
 h1{ color: rgb(10,10,10);
   font-size: 30px ;
 font-family: 'Open Sans Condensed', sans-serif;
