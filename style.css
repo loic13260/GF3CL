@@ -58,6 +58,17 @@ background-image:url(back2.png);
 overflow-x: hidden;
 }
 
+
+.placo {
+  height: 680px; 
+  width: 100%;
+  background-repeat: none;
+  background: #6cab26;
+background-image: url(per7.png);/* fallback */
+zoom: 115%;
+background-position: 0px, 10px, 0px, 0px;
+}
+
 body #Qui-sommes-nous {
     text-align: center;
     color: #fff;
@@ -69,6 +80,10 @@ body #Qui-sommes-nous {
     background-size: cover;
     -o-background-size: cover;
   }
+
+
+
+
     @media only screen and (max-width:800px) {
  .placo {
 background-image:url(none);
@@ -76,10 +91,6 @@ background-image:url(none);
  color:black
  }
 }
-
-
-
-
 
 
 }
@@ -1030,15 +1041,7 @@ position:absolute;
 
 
 
-div .placo {
-  height: 680px; 
-  width: 100%;
-  background-repeat: none;
-  background: #6cab26;
-background-image: url(per7.png);/* fallback */
-zoom: 115%;
-background-position: 0px, 10px, 0px, 0px;
-}
+
 
 div #grosoeuvre {
   height: 680px; 
