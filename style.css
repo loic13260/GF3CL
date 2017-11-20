@@ -1018,7 +1018,7 @@ position:absolute;
 
 
 
-section #placo {
+ #placo {
   height: 680px; 
   width: 100%;
   background-repeat: none;
@@ -1033,7 +1033,7 @@ width:100%;
 
 
 
-section #grosoeuvre {
+#grosoeuvre {
   height: 680px; 
   width: 100%;
   background-repeat: none;
@@ -1046,7 +1046,7 @@ clear:both;
 width:100%;
 }
 
-section #facade {
+#facade {
   height: 680px; 
   width: 100%;
   background-repeat: none;
