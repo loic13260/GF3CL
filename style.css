@@ -1035,7 +1035,6 @@ position: relative;
 
 
 
-
 #grosoeuvre {
   height: 680px; 
   width: 100%;
@@ -1065,6 +1064,20 @@ width:100%;
 position: relative;
 }
 
+
+.screen {
+  background-color: rgba(5, 5, 5, .50);
+  box-shadow: 0 5px 25px rgba(0, 0, 0, .90);
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+
+.story {
+  flex: 1;
+}
 
 
 
